@@ -122,3 +122,106 @@ border: 0px solid #373A3C;
 
 
 
+.deslab{
+  background-image: url(./fr/images/Rectangle.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 480px;
+  padding: 114px 0 158px 0;
+}
+.labaa{
+  height: 100px;
+}
+.deslab h1{
+  font-weight: 400;
+font-size: 48px;
+color: #fff;
+margin-bottom: 9px;
+}
+.deslab p{
+  font-weight: 400;
+font-size: 24px;
+color: #fff;
+margin-bottom: 27px;
+}
+.bt2 .green{
+  width: 207px;
+height: 60px;
+}
+.bt2 .grey{
+  width: 207px;
+height: 60px;
+}
+
+
+
+/* footer */
+
+
+
+.col{
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.col h3{
+  font-weight: 700;
+font-size: 18px;
+color: #7dd42f;
+}
+.col ul{
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.col a{
+  font-weight: 400;
+  font-size: 14px;
+  color: #fff;
+  text-decoration: none;
+}
+.links{
+  display: flex;
+  justify-content: space-between;
+  margin: 58px 65px 49px 0;
+}
+
+
+.cold{
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.cold h3{
+  font-weight: 700;
+font-size: 18px;
+color: #7dd42f;
+}
+.cold ul{
+  list-style-type: none;
+  display: flex;
+  gap: 30px;
+}
+.cold a{
+  font-weight: 400;
+  font-size: 14px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.fot hr{
+  stroke-width: 1px;
+stroke: #fff;
+}
+.foe p{
+  font-weight: 400;
+font-size: 16px;
+color: #fff;
+}
+.foe{
+  display: flex;
+  justify-content: space-between;
+  margin: 19px 0 38px 0;
+}
